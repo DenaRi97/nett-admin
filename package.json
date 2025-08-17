@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:nett-admin": "node dist/nett-admin/server/server.mjs"
+    "serve:ssr:nett-admin": "node dist/nett-admin/server/server.mjs",
   },
   "prettier": {
     "printWidth": 100,
